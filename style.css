@@ -110,6 +110,9 @@ body {
   hr {
     width: 100%;
   }
+  .my-project  {
+    margin: 0px 30px;
+  }
 }
 
 /* Navbar Finish */
